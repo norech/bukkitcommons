@@ -1,0 +1,5 @@
+name: NBC
+version: @version@
+main: com.norech.bukkitcommons.Main
+authors: [Norech]
+description: Norech Bukkit Commons
